@@ -77,7 +77,7 @@ export default function PaginaInicial() {
                 styleSheet={{
                     display: 'flex', alignItems: 'center', justifyContent: 'center',
                     backgroundColor: appConfig.theme.colors.primary[100],
-                    backgroundImage: 'url(https://virtualbackgrounds.site/wp-content/uploads/2020/09/finding-nemo-coral-reef.jpeg)',
+                    backgroundImage: 'url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/337000/fd1e26b5d17e96e972922c8c2d5fdf48a992b399.jpg)',
                     backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
                 }}
             >
